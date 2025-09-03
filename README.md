@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saqlain Abdullah</h1>
-<h3 align="center">I’m a MERN stack developer passionate about building dynamic, responsive web applications. Skilled in MongoDB, Express.js, React, and Node.js, I love turning ideas into scalable digital solutions.</h3>
+<h3 align="center">I’m a MERN stack developer ( Vibe Coder ) passionate about building dynamic, responsive web applications. Skilled in MongoDB, Express.js, React, and Node.js, I love turning ideas into scalable digital solutions.</h3>
 
 - 🌱 I’m currently learning **MongoDB, Express JS**
 
